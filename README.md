@@ -2,7 +2,7 @@
 Examples of analog sensor and digital sensor  applications using Arduino
 
 
-## Analog sensor pplications
+## Analog sensor applications
 Analog sensors output a variable voltage and resistance as they are activated. The most generic type of analog sensor is a potentiometer, and more specific types include flex sensors, photoresistors, microphones, some temperature sensors
 
 1. **Temperature Sensor**
@@ -27,7 +27,7 @@ Photoresistors, also known as light dependent resistors (LDR), are light sensiti
 
 
 
-## Digital sensor pplications
+## Digital sensor applications
 Digital Sensors produce a discrete digital output signals or voltages that are a digital representation of the quantity being measured. Digital sensors produce a Binary output signal in the form of a logic “1” or a logic “0”, (“ON” or “OFF”). Some sensors in this category include pushbuttons, switches, tilt balls sensors, magnetic reed switches, PIR motion sensors, and vibration switche
 
 1. **Ultrasonic Sensor**
